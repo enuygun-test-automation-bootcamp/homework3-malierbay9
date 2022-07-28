@@ -4,4 +4,5 @@ public enum DriverType {//driver tipi seçmek için yaptığımız enum
     CHROME,
     EDGE,
     FIREFOX,
+
 }

@@ -74,6 +74,4 @@ public class SignupPage extends DriverManager {//bu classta signup testi için g
         return webDriverWait;
     }
 
-
-
 }

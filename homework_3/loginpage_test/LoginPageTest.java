@@ -19,5 +19,4 @@ public class LoginPageTest extends LoginBaseTest {
         //assertTrue sonucu kontrol eder.
 
     }
-
 }

@@ -16,5 +16,6 @@ public class SignupPageTest extends SignupBaseTest{
         //assertTrue() checkSignup() metodundan gelecek sonucu kontrol eder.
 
     }
+
 }
 

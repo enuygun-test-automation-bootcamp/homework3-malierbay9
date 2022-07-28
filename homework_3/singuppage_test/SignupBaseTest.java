@@ -32,4 +32,5 @@ public class SignupBaseTest {//bu classı asıl test classımızdan extend etti�
         signupPage.quitDriver();
     }
 
+
 }

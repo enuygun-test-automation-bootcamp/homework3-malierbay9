@@ -17,7 +17,6 @@ public class DriverSettings {
         firefoxOptions = new FirefoxOptions();
     }
 
-
     protected void setDriverProps(Enum driverType){//bu metot driver tipine göre property ayarlamaya yarıyor
 
         if(driverType.equals(DriverType.CHROME)){//enum kullanarak hataya yatkınlığını ortadan kaldırdık

@@ -86,5 +86,4 @@ public class LoginPage extends DriverManager {//bu classta login testi için ger
         return webDriverWait;
     }
 
-
 }

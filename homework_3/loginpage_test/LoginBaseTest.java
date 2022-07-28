@@ -26,7 +26,6 @@ public class LoginBaseTest {//bu classı asıl test classımızdan extend ettiğ
             loginPage.chromeDriverSetup();//driver ı initiate ediyoruz
             break outer;//daha sonra outer etiketi sayesinde başa dönüp tekrar sayfayı açacak metot çalışıyor.
         }
-
     }
 
     @AfterAll//altında ki metotta işimiz bittikten sonra yapılmasını istediğimiz şeyleri yaptığımız JUnit anotasyonu

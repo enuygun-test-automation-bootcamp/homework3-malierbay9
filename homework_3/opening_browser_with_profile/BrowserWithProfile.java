@@ -19,6 +19,5 @@ public class BrowserWithProfile{
         driver.get("https://www.enuygun.com/");
     }
 
-
 }
 

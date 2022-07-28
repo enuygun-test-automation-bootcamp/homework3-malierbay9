@@ -16,6 +16,7 @@ public class DriverManager {
 
     protected DriverSettings driverSettings;//property, driver options ,capabilities gibi ayarları yapabilmeyi sağlayan DriverSettings classından da attribute oluşturuyoruz.
 
+
     public DriverManager(){
         this.driverSettings = new DriverSettings();//constructor metodunun içinde driverSettings atribute umuzu initiate ediyoruz
     }
